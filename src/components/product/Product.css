@@ -1,0 +1,12 @@
+.card{
+    height: 200px;
+    width: 220px;
+}
+.card-img-top{
+    height: 150px;
+
+}
+
+.card-text{
+    color: brown;
+}
